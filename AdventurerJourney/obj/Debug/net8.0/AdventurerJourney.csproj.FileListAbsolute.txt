@@ -1,0 +1,15 @@
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\bin\Debug\net8.0\AdventurerJourney.exe
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\bin\Debug\net8.0\AdventurerJourney.deps.json
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\bin\Debug\net8.0\AdventurerJourney.runtimeconfig.json
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\bin\Debug\net8.0\AdventurerJourney.dll
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\bin\Debug\net8.0\AdventurerJourney.pdb
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\obj\Debug\net8.0\AdventurerJourney.GeneratedMSBuildEditorConfig.editorconfig
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\obj\Debug\net8.0\AdventurerJourney.AssemblyInfoInputs.cache
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\obj\Debug\net8.0\AdventurerJourney.AssemblyInfo.cs
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\obj\Debug\net8.0\AdventurerJourney.csproj.CoreCompileInputs.cache
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\obj\Debug\net8.0\AdventurerJourney.sourcelink.json
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\obj\Debug\net8.0\AdventurerJourney.dll
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\obj\Debug\net8.0\refint\AdventurerJourney.dll
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\obj\Debug\net8.0\AdventurerJourney.pdb
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\obj\Debug\net8.0\AdventurerJourney.genruntimeconfig.cache
+C:\YaharaSoftwareCodingChallenge\collin-henderson-adventurer-journey-be\AdventurerJourney\obj\Debug\net8.0\ref\AdventurerJourney.dll

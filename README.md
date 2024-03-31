@@ -15,3 +15,37 @@ Given the Path Instructions above, programmatically parse the instructions and d
 - Provide any needed instructions to run program.
 - Do not round to the nearest step.
 - After program executes the answer should be returned.
+
+
+
+---------------------------------------------------------------------------------------------------
+Adventurer Journey Solution README.md
+-------------------------------------
+
+I decided to complete the solution using C#. I provided a .NET project solution in the 
+AdventurerJourney directory, and a Polyglot Notebooks solution in AdveturerJourney.ipynb.  
+These solutions work identically with nearly identical source code. The .ipynb file provides 
+documentation within explaining the code, the .NET project solution documentation will be included 
+in this README.md and comments describing the code will be included.
+
+Polyglot Notebook
+-----------------
+The best way to view the notebook is by using using the Polyglot Notebook extension in VSCode.
+Make sure .NET 8.0 SDK is installed and grab the Polyglot Notebook extension from the VSCode 
+extension marketplace.
+
+Otherwise, this .ipynb file is viewable from any notebook environment(e.g. Google Colab 
+or Jupyter Notebook). It won't be executable, but all the code and outputs are saved for viewing.
+
+To run the notebook use the 'Run All' button at the top of the notebook editor or run the code
+cells in order.
+
+.NET Console App
+----------------
+To create the .NET Console App version, I used the C# Dev Kit extension in VSCode.
+
+In order to run the project, make sure .NET Desktop runtime is installed. If using VSCode the
+.NET Install Tool extension can be used - open the command palette and use .NET Install tool to install
+SDK version 8.0.XX.
+
+To run the project navigate to the AdventurerJourney project directory and in terminal run 'dotnet run'.
