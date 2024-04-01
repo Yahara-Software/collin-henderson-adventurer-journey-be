@@ -23,13 +23,25 @@ Adventurer Journey Solution README.md
 -------------------------------------
 
 I decided to complete the solution using C#. I provided a .NET project solution in the 
-AdventurerJourney directory, and a Polyglot Notebooks solution in AdveturerJourney.ipynb.  
-These solutions work identically with nearly identical source code. The .ipynb file provides 
-documentation within explaining the code, the .NET project solution documentation will be included 
-in this README.md and comments describing the code will be included.
+AdventurerJourney project directory, and a Polyglot Notebooks solution in AdveturerJourney.ipynb.
 
-Polyglot Notebook
------------------
+.NET App vs Polyglot Notebook
+-----------------------------
+Both solutions function logically identically. The biggest difference in the code is the
+"directionsValid" bool in the notebook, which I used as a workaround because using
+System.Environment.Exit() was giving me strange problems in the notebook, like not being able
+to stop or restart the notebook without restarting VSCode.
+
+The .NET App has thourough commenting, using more detail in more places. However both files
+are not large and most of the code is self documenting. All you need to run is .NET 8 SDK.
+
+The Polyglot Notebook is easiest to read(in my opinion) and saves outputs. The Polyglot Notebook is
+required to run C# in notebooks, which I could only find on the VSCode extension marketplace. The
+.NET 8 SDK is still required.
+
+
+Polyglot Notebook: run or view
+-----------------------------
 The best way to view the notebook is by using using the Polyglot Notebook extension in VSCode.
 Make sure .NET 8.0 SDK is installed and grab the Polyglot Notebook extension from the VSCode 
 extension marketplace.
@@ -37,15 +49,20 @@ extension marketplace.
 Otherwise, this .ipynb file is viewable from any notebook environment(e.g. Google Colab 
 or Jupyter Notebook). It won't be executable, but all the code and outputs are saved for viewing.
 
-To run the notebook use the 'Run All' button at the top of the notebook editor or run the code
-cells in order.
+To run the notebook use the 'Run All' button in the notebook editor or run the code
+cells in order. Make sure 'Adventurer Path.md' is in the same directory as AdventurerJourney.ipynb.
 
-.NET Console App
-----------------
+Running .NET Console App
+------------------------
 To create the .NET Console App version, I used the C# Dev Kit extension in VSCode.
 
-In order to run the project, make sure .NET Desktop runtime is installed. If using VSCode the
+In order to run the project, make sure .NET Desktop runtime is installed, 8.0.XX. If using VSCode the
 .NET Install Tool extension can be used - open the command palette and use .NET Install tool to install
 SDK version 8.0.XX.
 
 To run the project navigate to the AdventurerJourney project directory and in terminal run 'dotnet run'.
+'Adventurer Path.md' should exist in the same directory that the AdventurerJourney project directory is in.
+
+I only touched 'AdventurerJourney.cs', so I recommend only running with the 'dotnet run' command from terminal.
+
+Thanks for reading!
